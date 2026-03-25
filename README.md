@@ -206,6 +206,7 @@ In this project, it will support:
 
 Austin
 Computer Engineering Student
+Some Integration and refining used by AI Usage. 
 
 ---
 
